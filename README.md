@@ -1,3 +1,4 @@
-### Olá 👋
+### Hello! 👋
 
-- 🌱 Eu estou aprendendo Java, Spring Boot, API Rest Full, Microserviços.
+- 🌱 I'm a ***Mobile Development*** student and this is my main repository.
+- Currently, i study Computer Network at the Universidade Federal do Ceará (UFC).
