@@ -1,4 +1,4 @@
 ### Hello! 👋
 
-- 🌱 I'm a ***Mobile Development*** student and this is my main repository.
-- Currently, i study Computer Network at the Universidade Federal do Ceará (UFC).
+- I'm a ***Android Development*** student and this is my main repository.
+- Currently, I study Computer Network at Universidade Federal do Ceará (UFC).
